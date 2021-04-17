@@ -1,5 +1,5 @@
 ### Hi there I'm Umut Batuhan ALPAN I'm 𝚂𝚎𝚕𝚏-𝚃𝚊𝚞𝚐𝚑𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋
-- 🔭 I’m currently working on RentACarProject
+- 🔭 I’m currently working on Frontend HTML CSS and JS
 - 🌱 I’m currently learning C# Asp.NET
 - 📫 How to reach me: alpanbatuhanumut@gmail.com
 - 😄 Pronouns: Mr.
